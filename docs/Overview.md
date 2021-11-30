@@ -6,8 +6,6 @@
 
 _(c) AMWA 2021, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)_
 
-![NMOS logo](images/NMOS-logo.png)
-
 ## Introduction
 
 Although (as of 2021) AMWA IS-04/05 and the other NMOS Specifications have been mainly been used in ST 2110 environments, they have always been capable of supporting other streaming protocols and formats. BCP-006 is an extensible series of Stream Mappings specifying how to use NMOS for individual protocols and formats. 
