@@ -1,27 +1,27 @@
-# \[Work In Progress\] AMWA NMOS Template Specification
+# \[Work In Progress\] AMWA NMOS Stream Mappings
 
-[![Lint Status](https://github.com/AMWA-TV/nmos-template/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/nmos-template/actions?query=workflow%3ALint)
-[![Render Status](https://github.com/AMWA-TV/nmos-template/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-template/actions?query=workflow%3ARender)
+[![Lint Status](https://github.com/AMWA-TV/nmos-stream-mappings/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/nmos-stream-mappings/actions?query=workflow%3ALint)
+[![Render Status](https://github.com/AMWA-TV/nmos-stream-mappings/workflows/Render/badge.svg)](https://github.com/AMWA-TV/nmos-stream-mappings/actions?query=workflow%3ARender)
 
 This repository holds the source for this Specification, part of the family of [Networked Media Open Specifications](https://specs.amwa.tv/nmos) from the [Advanced Media Workflow Association](https://amwa.tv)
 
 <!-- INTRO-START -->
 
-### What does it do?
+### What does the series do?
 
-- It provides a template for AMWA NMOS Interface Specifcations.
+- The BCP-006 series of AMWA Best Common Practices define how to connect Endpoints using AMWA IS-04 and IS-05 for various stream protocols and formats, including:
+  - Specification of the resources and attributes used for the stream protocol/format.
+  - Requirements for the Transport File (such as SDP).
+  - Examples.
 
 ### Why does it matter?
 
-- It helps ensure consistency between NMOS Specifications.
-- It helps us test our continuous integration.
+- The individual mapping BCPs ensure consistency between implementations offering NMOS for each stream protocol/format.
+- Bringing these together in the BCP-006 series helps provide consistency between the individual mappings and provides an index of mappings.
 
-### How does it work?
+### What are the mappings?
 
-- It contains examples of [documentation](docs/), [APIs](APIs/), [schemas](APIs/schemas/), and [examples](examples/)
-- It provides a style guide and other advice for specification authors
-  - This includes how to configure the repo for automatic linting and rendering to `specs.amwa.tv`
-- Select `AMWA-TV/nmos-template` as the template when creating the new repo.
+[BCP-006-01](https://specs.amwa.tv/bcp-006-01): NMOS With JPEG XS
 
 <!-- INTRO-END -->
 
