@@ -3,7 +3,7 @@ url: https://specs.amwa.tv/bcp-006
 name: Format Mappings
 status: Suite
 repo_name: bcp-006
-alt_repo_name: nmos-format-mappings
+alt_repo_name: nmos-stream-mappings
 repo_url: https://github.com/AMWA-TV/bcp-006
 default_branch: main
 show_in_index: false
