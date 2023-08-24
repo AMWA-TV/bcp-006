@@ -21,7 +21,7 @@ This repository holds the source for this Specification, part of the family of [
 
 ### What are the mappings?
 
-[BCP-006-01](https://specs.amwa.tv/bcp-006-01): NMOS With JPEG XS
+- See the [list of BCPs](https://specs.amwa.tv/nmos/#nmos-best-common-practices-bcp) on the main NMOS page.
 
 <!-- INTRO-END -->
 
