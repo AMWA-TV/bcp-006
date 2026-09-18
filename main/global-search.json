@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "repository": "AMWA-TV/bcp-006",
+  "documents": [
+    {
+      "title": "AMWA BCP-006 NMOS Format Mappings: Overview",
+      "url": "https://specs.amwa.tv/new/bcp-006/latest/Overview/",
+      "text": "AMWA BCP-006 NMOS Format Mappings: Overview AMWA BCP-006 NMOS Format Mappings: Overview Introduction Overview - [Work In Progress] AMWA NMOS Format Mappings Skip to content AMWA BCP-006 NMOS Format Mappings: Overview (c) AMWA 2021, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) Introduction AMWA IS-04/05 and the other NMOS Specifications were originally mostly used in ST 2110 environments, but have always been capable of supporting other streaming protocols and formats. BCP-006 is an extensible series of mappings specifying how to use NMOS for individual formats. BCP-006 is complemented by the BCP-007 series of transport mappings. For details of the current set of mappings see the list of BCPs on the main NMOS page.",
+      "repository": "AMWA-TV/bcp-006"
+    },
+    {
+      "title": "README",
+      "url": "https://specs.amwa.tv/new/bcp-006/latest/images/",
+      "text": "README README README - [Work In Progress] AMWA NMOS Format Mappings Skip to content README This directory is for images used in documentation",
+      "repository": "AMWA-TV/bcp-006"
+    },
+    {
+      "title": "[Work In Progress] AMWA NMOS Format Mappings",
+      "url": "https://specs.amwa.tv/new/bcp-006/latest/",
+      "text": "[Work In Progress] AMWA NMOS Format Mappings [Work In Progress] AMWA NMOS Format Mappings What does the series do? Why does it matter? What are the mappings? Getting started [Work In Progress] AMWA NMOS Format Mappings - [Work In Progress] AMWA NMOS Format Mappings Skip to content [Work In Progress] AMWA NMOS Format Mappings This repository holds the source for this Specification, part of the family of Networked Media Open Specifications from the Advanced Media Workflow Association What does the series do? The BCP-006 series of AMWA Best Common Practices define how to connect Endpoints using AMWA IS-04 and IS-05 for various video/audio/data formats, including: Specification of the resources and attributes used for the format. Requirements for the Transport File (such as SDP). Examples. Why does it matter? The individual mapping BCPs ensure consistency between implementations offering NMOS for each stream format. Bringing these together in the BCP-006 series helps provide consistency between the individual mappings and provides an index of mappings. What are the mappings? See the list of BCPs on the main NMOS page. Getting started There is more information about the NMOS Specifications and their GitHub repos at https://specs.amwa.tv/nmos .",
+      "repository": "AMWA-TV/bcp-006"
+    }
+  ]
+}
