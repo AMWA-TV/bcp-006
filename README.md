@@ -22,10 +22,20 @@ This repository holds the source for this Specification, part of the family of [
 
 ### What are the mappings?
 
-- See the [list of BCPs](https://specs.amwa.tv/nmos/#nmos-best-common-practices-bcp) on the main NMOS page.
+- [BCP-006-01: NMOS With JPEG XS](https://specs.amwa.tv/bcp-006-01)
+- [BCP-006-02: NMOS With H.264](https://specs.amwa.tv/bcp-006-02)
+- [BCP-006-03: NMOS With H.265](https://specs.amwa.tv/bcp-006-03)
+- [BCP-006-04: NMOS Support for MPEG Transport Streams](https://specs.amwa.tv/bcp-006-04)
 
 <!-- INTRO-END -->
 
 ## Getting started
+
+Choose the mapping for the format being integrated:
+
+- [BCP-006-01](https://specs.amwa.tv/bcp-006-01) for JPEG XS
+- [BCP-006-02](https://specs.amwa.tv/bcp-006-02) for H.264
+- [BCP-006-03](https://specs.amwa.tv/bcp-006-03) for H.265
+- [BCP-006-04](https://specs.amwa.tv/bcp-006-04) for MPEG Transport Streams
 
 There is more information about the NMOS Specifications and their GitHub repos at <https://specs.amwa.tv/nmos>.
