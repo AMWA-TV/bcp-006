@@ -3,12 +3,6 @@
   "repository": "AMWA-TV/bcp-006",
   "documents": [
     {
-      "title": "Page not found",
-      "url": "https://specs.amwa.tv/bcp-006/latest/404/",
-      "text": "Page not found Page not found Page not found - [Work In Progress] AMWA NMOS Format Mappings Skip to content Page not found The page you requested could not be found. Return to the documentation home",
-      "repository": "AMWA-TV/bcp-006"
-    },
-    {
       "title": "AMWA BCP-006 NMOS Format Mappings: Overview",
       "url": "https://specs.amwa.tv/bcp-006/latest/Overview/",
       "text": "AMWA BCP-006 NMOS Format Mappings: Overview AMWA BCP-006 NMOS Format Mappings: Overview Introduction Overview - [Work In Progress] AMWA NMOS Format Mappings Skip to content AMWA BCP-006 NMOS Format Mappings: Overview (c) AMWA 2021, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) Introduction AMWA IS-04/05 and the other NMOS Specifications were originally mostly used in ST 2110 environments, but have always been capable of supporting other streaming protocols and formats. BCP-006 is an extensible series of mappings specifying how to use NMOS for individual formats. BCP-006 is complemented by the BCP-007 series of transport mappings. For details of the current set of mappings see the list of BCPs on the main NMOS page.",
